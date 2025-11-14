@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Willy 👋
 # 💫 About Me:
 Pursuing a bachelor's degree in Information Technology at President University, with a keen interest in integrating technology and business strategies. A versatile professional with experience as a full-stack developer, UI/UX designer, and penetration tester. Combines creative problem-solving, critical thinking, and technical expertise to build secure, user-centered digital solutions that align with both user needs and business objectives.
 

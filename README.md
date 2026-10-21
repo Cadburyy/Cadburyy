@@ -1,6 +1,6 @@
 ## Hi there, I'm Willy 👋
 # 💫 About Me:
-Creative and adaptable problem solver with a strong interest in UI/UX and cybersecurity, combining technical thinking with a focus on building intuitive, secure digital experiences.
+Creative and adaptable problem solver with a strong interest in UI/UX, Front-end and cybersecurity, also interest on building IOS environment combining technical thinking with a focus on building intuitive, secure digital experiences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/willy-tanuwijaya) 
